@@ -1,0 +1,5 @@
+#bootstrap-overide img {
+    /* do your adjustments */
+    width: 100%;
+    height: auto;
+}
