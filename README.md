@@ -1,2 +1,9 @@
-# week-13-class-2
-bower and final head-start files
+# AGENDA
+- 
+## Bower
+  - 
+  ### .bowerrc config file
+  - 
+  ### bower.json file 
+-
+## Final Asignment (head-start files)
