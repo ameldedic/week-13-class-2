@@ -3,6 +3,9 @@
     <head>
         <meta charset="utf-8">
         <title>Home Page</title>
+        <!-- 
+        Iconic library is already a part of "libs" directory.
+        Create link to ICONIC font here: "./path/to/iconic-glyphs.css" -->
         <link rel="stylesheet" href="./libs/bootstrap/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="./css/main.css">
     </head>
@@ -10,12 +13,15 @@
         <div id="bootstrap-override">
             <header>
                 <!-- this is the place for navbar and masthead -->
+                <span class="iconic" data-glyph="heart" title="heart" aria-hidden="true"></span>
             </header>
             <main>
                 <!-- this is the place for jumbothron button -->
             </main>
             <footer>
                 <!-- this is the place for footer content -->
+                <!-- Learn how to use ICONIC font:
+                     https://useiconic.com/guides/how-to-use-the-icon-font -->
             </footer>
         </div>
         <script src="./libs/jquery/dist/jquery.min.js"></script>
