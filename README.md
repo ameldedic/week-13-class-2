@@ -1,5 +1,4 @@
-# AGENDA
-- 
+# AGENDA - 
 ## Bower
   - 
   ### .bowerrc config file
